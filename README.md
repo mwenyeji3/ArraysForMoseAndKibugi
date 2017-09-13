@@ -7,7 +7,7 @@ Learning Arrays
 
 1\. On Github's website, navigate to the repository for [Arrays](https://github.com/MauriceOkumu/ArraysForMoseAndKibugi)  
 2\. Click the "Fork" button near the top right part of the screen.  
-3\. In the popup box, select your Github profile to copy the repository from the TelegraphPrep Github profile to your   profile.
+3\. In the popup box, select your Github profile to copy the repository to your   profile.
 
  **Clone the Repository**
 
